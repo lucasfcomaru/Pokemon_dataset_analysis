@@ -57,7 +57,10 @@
     <img src="Imagens/relacao_atributos_captura.png" width="460" alt="Relação entre atributos e taxa de captura" title="Relação entre atributos e taxa de captura"/>
 </details>
 
-### Resumo das descobertas mais importantes
+### Resultados e discussões
+<p align="left">
+  Com base nos gráficos gerados foi possível descobri que a maior quantidade de pokémons é do tipo água, normal e planta. Os pokémons mais forte considerando a média dos seus atributos são do tipo 
+</p>
 
 ### Conclusão
 <!--
