@@ -69,24 +69,6 @@
 </p>
 
 ### Conclusão
-<!--
-Etapas do Projeto
-Estatísticas descritivas: médias, medianas, distribuições e desvios padrão.
-Análise de correlação entre diferentes variáveis (por exemplo, relação entre tipos de Pokémon e suas estatísticas de batalha).
-Identificação de padrões e tendências gerais.
-Visualização dos Dados
-
-Discussão dos principais achados da análise exploratória e das visualizações.
-Insights sobre a distribuição e características dos Pokémon.
-Identificação de padrões interessantes, como quais tipos de Pokémon têm melhores estatísticas em geral.
-Conclusões e Próximos Passos
-
-Resumo das descobertas mais importantes.
-Sugestões para análises futuras ou possíveis extensões do projeto, como a inclusão de novos dados (por exemplo, habilidades especiais ou dados de batalhas reais).
-Exemplo de Análises Específicas
-Distribuição de Tipos de Pokémon: Analisar quantos Pokémon existem de cada tipo e como esses tipos estão distribuídos.
-Comparação de Estatísticas Base: Comparar as estatísticas base (HP, Ataque, Defesa, Velocidade, etc.) entre diferentes tipos de Pokémon.
-Evolução dos Pokémon: Estudar como as estatísticas mudam quando os Pokémon evoluem.
-Conclusão
-Este projeto de análise de dados de Pokémon com Pandas permitirá uma compreensão profunda dos dados relacionados a essas criaturas icônicas, proporcionando insights valiosos tanto para fãs quanto para pesquisadores interessados em dados de jogos e suas aplicações. Utilizando as poderosas ferramentas de Pandas e outras bibliotecas Python, este projeto exemplifica como técnicas de análise de dados podem ser aplicadas a um conjunto de dados interessante e divertido.
--->
+<p align="left">
+  O projeto utilizando Pandas e outras biblioteca Python nos ajuda a compreender melhor a relação dos dados dos pokémons e proporciona insights valiosos para fãs e pesquisadores que tenham interesse em dados de jogos e suas aplicações (exemplo: RPG). Esse projeto gera um novo dataframe com os dados tratados que está disponibilizado no repositório para quem tiver interesse em usar e dar continuidade na análise dos dados, podendo assim fazer analises mais detalhadas.
+</p>
