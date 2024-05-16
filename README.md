@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/bitbucket/pr-raw/lucasfcomaru/Pokemon_dataset_analysis?style=for-the-badge" alt="Open pull requests count" title="Open pull requests"/>
 </p>
 
-# Projeto de Análise de Dados de Pokémon utilizando Pandas
-## Descrição do Projeto
-### Objetivo
+# 📈 Projeto de análise de dados de Pokémon utilizando Pandas
+## 📢 Descrição do Projeto
+### 🏹 Objetivo
 <p align="left">
   O objetivo deste projeto é explorar, limpar, analisar e visualizar dados de uma base de dados de Pokémon utilizando a biblioteca Pandas do Python. Através desta análise, pretendemos descobrir padrões, tendências e insights sobre as características dos Pokémon e algumas correlações. Este projeto será dividido em várias etapas, incluindo a preparação dos dados, análise exploratória, visualização e interpretação dos resultados.
 </p>
@@ -18,7 +18,7 @@
   O projeto tem caráter experimental e visa a prática do conhecimento.
 </p>
 
-## Ferramentas utilizadas
+### 🛠️ Ferramentas utilizadas
 <ul>
   <li><b>Python:</b> Linguagem de programação principal.</li>
   <li><b>Pandas:</b> Biblioteca para manipulação e análise de dados.</li>
@@ -26,8 +26,8 @@
   <li><b>Jupyter Notebook:</b> Ambiente interativo para desenvolvimento e apresentação do projeto</li>
 </ul>
 
-## Etapas do projeto
-### Coleta e preparação dos dados
+## 🚀 Etapas do projeto
+### ⛏️ Coleta e preparação dos dados
 <ul>
   <li>Importação da base de dados de Pokémon (base de dados encontra-se dentro da pasta /Original.</li>
   <li>Limpeza dos dados: exclusão de colunas que não serão utlizadas. </li>
@@ -40,7 +40,7 @@
   <li>Análise Exploratória dos Dados (EDA)</li>
 </ul>
 
-### Criação e visualização de Gráficos
+### 📊 Criação e visualização de Gráficos
 <ul>
   <li>Histogramas para analisar a quantidade de pokémons por tipo.</li>
   <li>Gráficos de dispersão para analisar relações entre variáveis.</li>
@@ -58,7 +58,7 @@
     <img src="Imagens/relacao_peso_altura.png" width="420" alt="Relação entre peso e altura dos pokémons" title="Relação entre peso e altura dos pokémons"/>
 </details>
 
-### Resultados e discussões
+### 📄 Resultados e discussões
 <p align="left">
   Com base nos gráficos gerados foi possível descobri que a maior quantidade de pokémons é do tipo água, normal e planta. Os pokémons mais forte considerando a média dos seus atributos são do tipo água, terra, psíquico e dragões.
 </p>
@@ -80,7 +80,7 @@
   Com base nos gráficos de dispersão foi constatado uma correlação positiva entre o peso e a altura dos pokémons, ficando inclusive perceptível que a maior parte dos pokémons possuem até 200 quilo e até 2 metros de altura. No entanto, entre as variáveis taxa de caotura e total de atributos é possível observar uma correlação negativa, ou seja, a facilidade de captura de um pokémon não está relacionado com o quão forte ele é.
 </p>
 
-### Conclusão
+### 💻 Conclusão
 <p align="left">
   O projeto utilizando Pandas e outras biblioteca Python nos ajuda a compreender melhor a relação dos dados dos pokémons e proporciona insights valiosos para fãs e pesquisadores que tenham interesse em dados de jogos e suas aplicações (exemplo: RPG). Esse projeto gera um novo dataframe com os dados tratados que está disponibilizado no repositório para quem tiver interesse em usar e dar continuidade na análise dos dados, podendo assim fazer analises mais detalhadas.
 </p>
