@@ -40,26 +40,32 @@
   <li>Análise Exploratória dos Dados (EDA)</li>
 </ul>
 
+### Criação e visualização de Gráficos
+<ul>
+  <li>Histogramas para analisar a quantidade de pokémons por tipo.</li>
+  <li>Gráficos de dispersão para analisar relações entre variáveis.</li>
+  <li>Gráficos de barras para análises com tipos de pokemons e atributos (por exemplo, tipos de Pokémon mais forte).</li>
+  <li>Interpretação dos Resultados.</li>
+</ul>
+
+<details>
+  <summary><b>Gráficos</b> ⤵️</summary>
+    <img src="Imagens/tipo_media_atributos.png" width="460" alt="Tipo de pokémon por média de atributos" title="Tipo de pokémon por média de atributos"/>
+    <img src="Imagens/qtd_pokemon_tipo.png" width="460" alt="Quantidade de pokémons por tipo" title="Quantidade de pokémons por tipo"/>
+    <img src="Imagens/ataque_defesa_tipo.png" width="460" alt="Ataque e defesa por tipo de pokémon" title="Ataque e defesa por tipo de pokémon"/>
+    <img src="Imagens/relacao_peso_altura.png" width="460" alt="Relação entre peso e altura dos pokémons" title="Relação entre peso e altura dos pokémons"/>
+    <img src="Imagens/relacao_atributos_captura.png" width="460" alt="Relação entre atributos e taxa de captura" title="Relação entre atributos e taxa de captura"/>
+</details>
+
+### Resumo das descobertas mais importantes
+
+### Conclusão
 <!--
 Etapas do Projeto
-Coleta e Preparação dos Dados
-
-Importação da base de dados de Pokémon.
-Limpeza dos dados: tratamento de valores nulos, duplicados e inconsistentes.
-Estruturação dos dados para facilitar a análise (transformações e criação de novas colunas, se necessário).
-Análise Exploratória dos Dados (EDA)
-
 Estatísticas descritivas: médias, medianas, distribuições e desvios padrão.
 Análise de correlação entre diferentes variáveis (por exemplo, relação entre tipos de Pokémon e suas estatísticas de batalha).
 Identificação de padrões e tendências gerais.
 Visualização dos Dados
-
-Criação de gráficos e visualizações para melhor compreensão dos dados:
-Histogramas e distribuições de frequências para diferentes atributos.
-Gráficos de dispersão para analisar relações entre variáveis.
-Gráficos de barras e setores para análise de categorias (por exemplo, tipos de Pokémon mais comuns).
-Mapas de calor para visualizar correlações.
-Interpretação dos Resultados
 
 Discussão dos principais achados da análise exploratória e das visualizações.
 Insights sobre a distribuição e características dos Pokémon.
