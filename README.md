@@ -50,11 +50,12 @@
 
 <details>
   <summary><b>Gráficos</b> ⤵️</summary>
-    <img src="Imagens/tipo_media_atributos.png" width="460" alt="Tipo de pokémon por média de atributos" title="Tipo de pokémon por média de atributos"/>
-    <img src="Imagens/qtd_pokemon_tipo.png" width="460" alt="Quantidade de pokémons por tipo" title="Quantidade de pokémons por tipo"/>
-    <img src="Imagens/ataque_defesa_tipo.png" width="460" alt="Ataque e defesa por tipo de pokémon" title="Ataque e defesa por tipo de pokémon"/>
-    <img src="Imagens/relacao_peso_altura.png" width="460" alt="Relação entre peso e altura dos pokémons" title="Relação entre peso e altura dos pokémons"/>
-    <img src="Imagens/relacao_atributos_captura.png" width="460" alt="Relação entre atributos e taxa de captura" title="Relação entre atributos e taxa de captura"/>
+    <img src="Imagens/tipo_media_atributos.png" width="420" alt="Tipo de pokémon por média de atributos" title="Tipo de pokémon por média de atributos"/>
+    <img src="Imagens/qtd_pokemon_tipo.png" width="420" alt="Quantidade de pokémons por tipo" title="Quantidade de pokémons por tipo"/>
+    <img src="Imagens/ataque_defesa_tipo.png" width="420" alt="Ataque e defesa por tipo de pokémon" title="Ataque e defesa por tipo de pokémon"/>
+    <img src="Imagens/Tipos_pokemons_atributos.png" width="420" alt="Tipos de pokémons de atributos" title="Tipos de pokémons de atributos"/>
+    <img src="Imagens/relacao_atributos_captura.png" width="420" alt="Relação entre atributos e taxa de captura" title="Relação entre atributos e taxa de captura"/>
+    <img src="Imagens/relacao_peso_altura.png" width="420" alt="Relação entre peso e altura dos pokémons" title="Relação entre peso e altura dos pokémons"/>
 </details>
 
 ### Resultados e discussões
@@ -62,8 +63,19 @@
   Com base nos gráficos gerados foi possível descobri que a maior quantidade de pokémons é do tipo água, normal e planta. Os pokémons mais forte considerando a média dos seus atributos são do tipo água, terra, psíquico e dragões.
 </p>
 <p align="left">
-  Também foi identificado que os pokémons que possuem maior ataque são do tipo dragão, lutador e terra e os que possuem maior defesa, inclusive superando o ataque são do tipo aço e pedra.
+  Também foi identificado que os pokémons que possuem maior ataque são do tipo dragão, lutador e terra e os que possuem maior defesa, inclusive superando o ataque são do tipo aço e pedra. Cada tipo de pokémon possui um atributo em destaque que será mostrado na tabela abaixo:
 </p>
+<h4>Tipo de pokémon e principal atributo</h4>
+<table border="1">
+  <tr><th><b>TIPO</b></th><th><b>ATRIBUTO</b></th><th><b>TIPO</b></th><th><b>ATRIBUTO</b></th><th><b>TIPO</b></th><th><b>ATRIBUTO</b></th></tr>
+  <tr><td><b>planta</b></td><td>ataque</td><td><b>fogo</b></td><td>sp ataque</td><td><b>água</b></td><td>sp ataque</td></tr>
+  <tr><td><b>inseto</b></td><td>sp defesa</td><td><b>normal</b></td><td>vida</td><td><b>venenoso</b></td><td>defesa</td></tr>
+  <tr><td><b>elétrico</b></td><td>sp ataque</td><td><b>terra</b></td><td>ataque</td><td><b>fada</b></td><td>sp defesa</td></tr>
+  <tr><td><b>lutador</b></td><td>ataque</td><td><b>psíquico</b></td><td>sp ataque</td><td><b>pedra</b></td><td>defesa</td></tr>
+  <tr><td><b>fantasma</b></td><td>sp ataque</td><td><b>gelo</b></td><td>sp defesa</td><td><b>dragão</b></td><td>vida</td></tr>
+  <tr><td><b>escuridão</b></td><td>vida</td><td><b>aço</b></td><td>defesa</td><td><b>voador</b></td><td>sp ataque</td></tr>
+</table>
+
 <p align="left">
   Com base nos gráficos de dispersão foi constatado uma correlação positiva entre o peso e a altura dos pokémons, ficando inclusive perceptível que a maior parte dos pokémons possuem até 200 quilo e até 2 metros de altura. No entanto, entre as variáveis taxa de caotura e total de atributos é possível observar uma correlação negativa, ou seja, a facilidade de captura de um pokémon não está relacionado com o quão forte ele é.
 </p>
