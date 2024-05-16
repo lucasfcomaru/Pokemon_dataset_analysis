@@ -26,6 +26,20 @@
   <li><b>Jupyter Notebook:</b> Ambiente interativo para desenvolvimento e apresentação do projeto</li>
 </ul>
 
+## Etapas do projeto
+### Coleta e preparação dos dados
+<ul>
+  <li>Importação da base de dados de Pokémon (base de dados encontra-se dentro da pasta /Original.</li>
+  <li>Limpeza dos dados: exclusão de colunas que não serão utlizadas. </li>
+  <li>Estruturação dos dados para facilitar a análise:</li>
+    <ul>
+      <li>Tradução de todos valores para a língua portuguesa.</li>
+      <li>Alteração de valores "0" e "1" para "False" e "True" na coluna "lendários.</li>
+      <li>Criação das colunas "total atr" e "md atr" que são a soma e a média dos atributos respectivamente.</li>
+    </ul>
+  <li>Análise Exploratória dos Dados (EDA)</li>
+</ul>
+
 <!--
 Etapas do Projeto
 Coleta e Preparação dos Dados
