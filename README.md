@@ -59,7 +59,13 @@
 
 ### Resultados e discussões
 <p align="left">
-  Com base nos gráficos gerados foi possível descobri que a maior quantidade de pokémons é do tipo água, normal e planta. Os pokémons mais forte considerando a média dos seus atributos são do tipo 
+  Com base nos gráficos gerados foi possível descobri que a maior quantidade de pokémons é do tipo água, normal e planta. Os pokémons mais forte considerando a média dos seus atributos são do tipo água, terra, psíquico e dragões.
+</p>
+<p align="left">
+  Também foi identificado que os pokémons que possuem maior ataque são do tipo dragão, lutador e terra e os que possuem maior defesa, inclusive superando o ataque são do tipo aço e pedra.
+</p>
+<p align="left">
+  Com base nos gráficos de dispersão foi constatado uma correlação positiva entre o peso e a altura dos pokémons, ficando inclusive perceptível que a maior parte dos pokémons possuem até 200 quilo e até 2 metros de altura. No entanto, entre as variáveis taxa de caotura e total de atributos é possível observar uma correlação negativa, ou seja, a facilidade de captura de um pokémon não está relacionado com o quão forte ele é.
 </p>
 
 ### Conclusão
