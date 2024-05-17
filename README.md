@@ -10,7 +10,7 @@
 
 # 📈 Projeto de análise de dados de Pokémon utilizando Pandas
 ## 📢 Descrição do Projeto
-### 🏹 Objetivo
+### 🎯 Objetivo
 <p align="left">
   O objetivo deste projeto é explorar, limpar, analisar e visualizar dados de uma base de dados de Pokémon utilizando a biblioteca Pandas do Python. Através desta análise, pretendemos descobrir padrões, tendências e insights sobre as características dos Pokémon e algumas correlações. Este projeto será dividido em várias etapas, incluindo a preparação dos dados, análise exploratória, visualização e interpretação dos resultados.
 </p>
